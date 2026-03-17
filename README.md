@@ -9,7 +9,7 @@ This repository provides the official implementation of **HeterMV**, a neural fr
 ## 1. Overview
 
 HeterMV is a source-aware multi-view reasoning framework for multi-source fact verification. It organizes core evidence, context, and reference documents into a heterogeneous evidence graph, performs view-specific reasoning over different evidence relations, and enhances claim verification through view-conditioned prompt tuning and cross-view consistency learning.
-![alt text](HeterMV.png)
+![alt text](HeterMV.jpg)
 
 ## 2. Repository Structure
 
