@@ -41,7 +41,7 @@ Datasets should be placed under:
 * `contexts.json`
 * `references.json`
 
-📩 Dataset will be available on request. Please contact **[gujunnandaniel@gmail.com](mailto:gujunnandaniel@gmail.com).**
+📩 Dataset will be made available on request. Please contact **[gujunnandaniel@gmail.com](mailto:gujunnandaniel@gmail.com).**
 
 ---
 
@@ -65,7 +65,7 @@ pip install scikit-learn tqdm
 python main.py -m supervised -es retrieved -ml 128 -gpu 0 -ne 100 -ls 5
 
 # feverous-s
-python main.py -m supervised -es retrieved -ml 128 -gpu 0 -ne 100 -ls 1 -lm base_bert -dn feverous
+python main.py -m supervised -es retrieved -ml 128 -gpu 0 -ne 100 -ls 5 -lm base_bert -dn feverous
 ```
 
 ---
@@ -98,12 +98,6 @@ Default checkpoint:
 ```
 ./ckpt/<dataset>_<setting>_supervised_<lm>.pt
 ```
-
-### Metrics
-
-* Micro F1
-* Macro F1
-* Class-wise F1 (support / refute)
 
 ---
 
