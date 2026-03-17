@@ -1,6 +1,6 @@
 # HeterMV: Multi-View Reasoning over Source-Aware Heterogeneous Evidence Graph
 
-This repository provides the official implementation of **HeterMV**, a neural framework for multi-source fact verification that performs **multi-view reasoning over source-aware heterogeneous evidence graph**.
+This repository provides the official implementation of **HeterMV**, a new framework for multi-source fact verification that performs **multi-view reasoning over source-aware heterogeneous evidence graph**.
 
 > **[HeterMV: Multi-view reasoning over source-aware heterogeneous evidence graph for multi-source fact verification](https://doi.org/10.1016/j.ipm.2026.104709)**
 
